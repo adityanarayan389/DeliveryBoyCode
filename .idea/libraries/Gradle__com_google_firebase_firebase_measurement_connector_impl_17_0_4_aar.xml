@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-measurement-connector-impl:17.0.4@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/75588fa5fa9c357643f6571c1e8468c6/transformed/jetified-firebase-measurement-connector-impl-17.0.4/res" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-3/a099ff6b1ecdcb70b26e3691d3ccb480/transformed/jetified-firebase-measurement-connector-impl-17.0.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/a099ff6b1ecdcb70b26e3691d3ccb480/transformed/jetified-firebase-measurement-connector-impl-17.0.4/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/a099ff6b1ecdcb70b26e3691d3ccb480/transformed/jetified-firebase-measurement-connector-impl-17.0.4/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/7ad8b2ddb3c696c68c10dfdd5a8e1d66/transformed/jetified-firebase-measurement-connector-impl-17.0.4/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/7ad8b2ddb3c696c68c10dfdd5a8e1d66/transformed/jetified-firebase-measurement-connector-impl-17.0.4/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-3/7ad8b2ddb3c696c68c10dfdd5a8e1d66/transformed/jetified-firebase-measurement-connector-impl-17.0.4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
